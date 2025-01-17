@@ -59,4 +59,4 @@ After running the script, the following outputs will be generated:
 ---
 
 ## Contact
-If you have any questions or issues, please reach out to the project maintainer.
+If you have any questions or issues, please reach out to Roozbeh@Northlightai.com.
